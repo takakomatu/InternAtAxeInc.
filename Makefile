@@ -4,10 +4,10 @@
 
 LDFLAGS = -lopencv_objdetect -lopencv_core -lopencv_imgproc -lopencv_highgui
 
-all:	get_rect
+all:	sample1
 
-get_rect:	get_rect.cpp
+sample1:	sample1.cpp
 	c++ $^ -o $@ $(LDFLAGS)
 
 clean:
-	$(RM) -f get_rect
+	$(RM) -f sample1

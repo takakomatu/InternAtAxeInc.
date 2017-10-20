@@ -1,0 +1,185 @@
+# この viminfo ファイルは Vim 7.4 によって生成されました.
+# 変更する際には十分注意してください!
+
+# このファイルが書かれた時の 'encoding' の値
+*encoding=utf-8
+
+
+# hlsearch on (H) or off (h):
+~h
+# 最後の 検索パターン:
+~MSle0/0823
+
+# 最後の Substitute 検索パターン:
+~MSle0~&^
+
+# 最後に置換された文字列:
+$kao\/
+
+# コマンドライン 項目の履歴 (新しいものから古いものへ):
+:.,$s/^/kao\//
+:q!
+:q
+:w
+
+# 検索文字列 項目の履歴 (新しいものから古いものへ):
+? ^
+?/0823
+?/-
+? \<std\>
+
+# 式 項目の履歴 (新しいものから古いものへ):
+
+# 入力行 項目の履歴 (新しいものから古いものへ):
+
+# 入力行 項目の履歴 (新しいものから古いものへ):
+
+# レジスタ:
+""1	LINE	0
+	kao/
+"2	LINE	0
+	IMG_20170821_132844.jpg 1 704 704 1524 2468
+"3	LINE	0
+	IMG_20170821_132844.jpg 1 704 704 1524 2468
+"4	LINE	0
+	IMG_20170821_132844.jpg 1 704 704 1524 2468
+"5	LINE	0
+	IMG_20170821_132841.jpg 1 776 664 1492 2592
+"6	LINE	0
+	IMG_20170821_132840.jpg 1 768 684 1468 2496
+"7	LINE	0
+	IMG_20170821_132834_1.jpg 1 724 460 1488 2664
+	IMG_20170821_132835_1.jpg 1 740 588 1464 2644
+	IMG_20170821_132838.jpg 1 808 724 1384 2504
+"8	LINE	0
+	IMG_20170821_132824.jpg 1 816 1228 1308 2008
+	IMG_20170821_132826_1.jpg 1 852 1284 1260 1972
+	IMG_20170821_132828.jpg 1 820 1280 1296 1884
+	IMG_20170821_132830.jpg 1 852 1296 1276 1968
+	IMG_20170821_132832.jpg 1 868 1316 1280 1924
+"9	LINE	0
+	IMG_20170821_132801.jpg 1 1008 856 1344 2328
+	IMG_20170821_132803.jpg 1 952 868 1356 2372
+	IMG_20170821_132805.jpg 1 996 864 1324 2352
+	IMG_20170821_132807.jpg 1 984 852 1200 2264
+	IMG_20170821_132809.jpg 1 1016 832 1356 2408
+	IMG_20170821_132811.jpg 1 652 980 1652 2232
+	IMG_20170821_132816.jpg 1 948 1168 1412 2096
+	IMG_20170821_132818_1.jpg 1 764 1236 1448 2004
+	IMG_20170821_132820_1.jpg 1 808 1224 1348 2032
+	IMG_20170821_132822.jpg 1 864 1228 1320 2036
+
+# ファイルマーク:
+'0  54  0  ~/デスクトップ/sample1.cpp
+'1  25  0  ~/get_rect/get_rect.cpp
+'2  1  0  ~/sample1.cpp
+'3  1  0  ~/デスクトップ/sample1.cpp
+'4  458  48  ~/intern2017/info04.dat
+'5  19  0  ~/sample1.cpp
+'6  1  0  ~/get_rect/get_rect.cpp
+'7  1  0  ~/get_rect/Makefile
+'8  4  0  ~/Makefile
+'9  195  26  ~/intern2017/aaa
+
+# ジャンプリスト (新しいものが先):
+-'  54  0  ~/デスクトップ/sample1.cpp
+-'  1  0  ~/デスクトップ/sample1.cpp
+-'  25  0  ~/get_rect/get_rect.cpp
+-'  1  0  ~/get_rect/get_rect.cpp
+-'  1  0  ~/sample1.cpp
+-'  458  48  ~/intern2017/info04.dat
+-'  196  0  ~/intern2017/info04.dat
+-'  197  0  ~/intern2017/info04.dat
+-'  459  0  ~/intern2017/info04.dat
+-'  110  15  ~/intern2017/info04.dat
+-'  1  0  ~/intern2017/info04.dat
+-'  436  8  ~/intern2017/info04.dat
+-'  437  0  ~/intern2017/info04.dat
+-'  19  0  ~/sample1.cpp
+-'  1  0  ~/get_rect/Makefile
+-'  4  0  ~/Makefile
+-'  1  0  ~/Makefile
+-'  195  26  ~/intern2017/aaa
+-'  194  0  ~/intern2017/aaa
+-'  1  0  ~/intern2017/aaa
+-'  191  0  ~/intern2017/aaa
+-'  190  0  ~/intern2017/aaa
+-'  2  0  ~/intern2017/aaa
+-'  101  0  ~/intern2017/aaa
+-'  151  0  ~/intern2017/aaa
+-'  171  0  ~/intern2017/aaa
+-'  181  0  ~/intern2017/aaa
+-'  186  0  ~/intern2017/aaa
+-'  189  0  ~/intern2017/aaa
+-'  192  0  ~/intern2017/aaa
+-'  191  0  ~/intern2017/info02.dat
+-'  192  0  ~/intern2017/info02.dat
+-'  1  0  ~/intern2017/info02.dat
+-'  2  0  ~/intern2017/info02.dat
+-'  19  0  /home/komae/opencv-sample/sample1.cpp
+-'  1  0  /home/komae/opencv-sample/sample1.cpp
+-'  36  33  ~/sample1.cpp
+-'  32  2  ~/sample1.cpp
+-'  52  4  ~/sample1.cpp
+-'  19  0  /home/komae/opencv-sample/sample1.cpp
+-'  1  0  /home/komae/opencv-sample/sample1.cpp
+-'  19  0  /home/komae/opencv-sample/sample1.cpp
+-'  1  0  /home/komae/opencv-sample/sample1.cpp
+-'  19  0  /home/komae/opencv-sample/sample1.cpp
+-'  1  0  /home/komae/opencv-sample/sample1.cpp
+-'  19  0  /home/komae/opencv-sample/sample1.cpp
+-'  1  0  /home/komae/opencv-sample/sample1.cpp
+-'  19  0  /home/komae/opencv-sample/sample1.cpp
+-'  1  0  /home/komae/opencv-sample/sample1.cpp
+-'  19  0  /home/komae/opencv-sample/sample1.cpp
+-'  1  0  /home/komae/opencv-sample/sample1.cpp
+-'  19  0  /home/komae/opencv-sample/sample1.cpp
+-'  1  0  /home/komae/opencv-sample/sample1.cpp
+-'  19  0  /home/komae/opencv-sample/sample1.cpp
+-'  1  0  /home/komae/opencv-sample/sample1.cpp
+-'  19  0  /home/komae/opencv-sample/sample1.cpp
+-'  1  0  /home/komae/opencv-sample/sample1.cpp
+-'  19  0  /home/komae/opencv-sample/sample1.cpp
+-'  1  0  /home/komae/opencv-sample/sample1.cpp
+-'  19  0  /home/komae/opencv-sample/sample1.cpp
+-'  1  0  /home/komae/opencv-sample/sample1.cpp
+-'  19  0  /home/komae/opencv-sample/sample1.cpp
+-'  1  0  /home/komae/opencv-sample/sample1.cpp
+-'  19  0  /home/komae/opencv-sample/sample1.cpp
+-'  1  0  /home/komae/opencv-sample/sample1.cpp
+-'  19  0  /home/komae/opencv-sample/sample1.cpp
+-'  1  0  /home/komae/opencv-sample/sample1.cpp
+-'  19  0  /home/komae/opencv-sample/sample1.cpp
+-'  1  0  /home/komae/opencv-sample/sample1.cpp
+-'  194  0  ~/intern2017/info02.dat
+-'  19  0  /home/komae/opencv-sample/sample1.cpp
+-'  1  0  /home/komae/opencv-sample/sample1.cpp
+-'  19  0  /home/komae/opencv-sample/sample1.cpp
+-'  1  0  /home/komae/opencv-sample/sample1.cpp
+-'  19  0  /home/komae/opencv-sample/sample1.cpp
+-'  1  0  ~/get_rect/Makefile
+-'  4  0  ~/Makefile
+-'  1  0  ~/Makefile
+-'  195  26  ~/intern2017/aaa
+-'  194  0  ~/intern2017/aaa
+-'  1  0  ~/intern2017/aaa
+-'  191  0  ~/intern2017/aaa
+-'  190  0  ~/intern2017/aaa
+-'  2  0  ~/intern2017/aaa
+-'  101  0  ~/intern2017/aaa
+-'  151  0  ~/intern2017/aaa
+-'  171  0  ~/intern2017/aaa
+-'  181  0  ~/intern2017/aaa
+-'  458  48  ~/intern2017/info04.dat
+-'  196  0  ~/intern2017/info04.dat
+-'  197  0  ~/intern2017/info04.dat
+-'  459  0  ~/intern2017/info04.dat
+-'  110  15  ~/intern2017/info04.dat
+-'  1  0  ~/intern2017/info04.dat
+-'  436  8  ~/intern2017/info04.dat
+-'  1  0  ~/sample1.cpp
+
+# ファイル内マークの履歴 (新しいものから古いもの):
+
+> ~/デスクトップ/sample1.cpp
+	"	54	0
